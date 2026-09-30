@@ -216,3 +216,5 @@ When the wizard is done, restart the application and run the exploits again to c
 
 
 Jenkins pipeline successfully tested with email notifications.
+
+DevSecOps pipeline notification test - Commit 2
